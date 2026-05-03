@@ -14,4 +14,4 @@ No em-dashes. No jargon unless defined.
 
 ## License
 
-MIT 2025 ognome-dev
+MIT 2026 ognome-dev
